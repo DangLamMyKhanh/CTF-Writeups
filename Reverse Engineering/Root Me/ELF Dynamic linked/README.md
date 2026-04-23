@@ -53,5 +53,3 @@ Flag: 123456789
 
 ---
 Author: Dang Lam My Khanh
-<br>
-Argenvale's Security Learning
