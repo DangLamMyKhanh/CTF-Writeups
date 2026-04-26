@@ -109,5 +109,3 @@ Khuyến nghị: Cần Hash mật khẩu (bcrypt/argon2) và thực hiện Strip
 
 ---
 Author: Dang Lam My Khanh
-<br>
-Argenvale's Security Learning
