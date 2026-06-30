@@ -1,3 +1,4 @@
 {
-    "editor.copyWithSyntaxHighlighting": true
+    "editor.copyWithSyntaxHighlighting": true,
+    "editor.unicodeHighlight.nonBasicASCII": false
 }
